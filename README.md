@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Turab. I am studying at Bilkent University.
 <!--
 **ttturab/ttturab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
